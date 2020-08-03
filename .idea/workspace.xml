@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec4459d0-2799-4793-b954-da0aeedf0832" name="Default Changelist" comment="" />
+    <list default="true" id="ec4459d0-2799-4793-b954-da0aeedf0832" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MainServer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainServer.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,9 +20,22 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="TODOWeb" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="TODOWeb" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -34,7 +52,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1b5ac9A1WtYwicaRGSqSgJEFQtK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -51,7 +69,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.excludes" />
   </component>
-  <component name="RunManager" selected="Kotlin.MainServerKt">
+  <component name="RunManager" selected="Kotlin.MainClientKt">
     <configuration name="MainClientKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="TODOWeb.main" />
       <option name="VM_PARAMETERS" />
@@ -80,8 +98,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.MainServerKt" />
         <item itemvalue="Kotlin.MainClientKt" />
+        <item itemvalue="Kotlin.MainServerKt" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +117,7 @@
       <workItem from="1587926234850" duration="3462000" />
       <workItem from="1587982770585" duration="368000" />
       <workItem from="1596411847670" duration="1615000" />
-      <workItem from="1596413567658" duration="13000" />
+      <workItem from="1596413567658" duration="716000" />
     </task>
     <servers />
   </component>
@@ -127,10 +145,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1159" y="208" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587983136609" />
-    <state x="837" y="418" width="600" height="240" key="Github.ShareDialog" timestamp="1596413301475">
+    <state x="837" y="418" width="600" height="240" key="Github.ShareDialog" timestamp="1596413666157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="837" y="418" width="600" height="240" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596413301475" />
+    <state x="837" y="418" width="600" height="240" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596413666157" />
+    <state x="696" y="218" key="Github.UntrackedFilesDialog" timestamp="1596413676235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="696" y="218" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596413676235" />
     <state width="1877" height="165" key="GridCell.Tab.0.bottom" timestamp="1596413424241">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
