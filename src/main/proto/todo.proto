@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_outer_classname = "TodoProtos";
+
+message CreateTodoRequest {
+  string todoText = 1;
+}
+
+message CreateTodoResponse {
+  string status = 1;
+}
+
+service TodoService {
+  rpc createTodo(CreateTodoRequest) returns (CreateTodoResponse) {}
+}

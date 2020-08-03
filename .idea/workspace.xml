@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec4459d0-2799-4793-b954-da0aeedf0832" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="ProjectId" id="1b5ac9A1WtYwicaRGSqSgJEFQtK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.excludes" />
+  </component>
+  <component name="RunManager" selected="Kotlin.MainServerKt">
+    <configuration name="MainClientKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="TODOWeb.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainClientKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainServerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="TODOWeb.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainServerKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainServerKt" />
+        <item itemvalue="Kotlin.MainClientKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec4459d0-2799-4793-b954-da0aeedf0832" name="Default Changelist" comment="" />
+      <created>1587924484611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587924484611</updated>
+      <workItem from="1587924489034" duration="1736000" />
+      <workItem from="1587926234850" duration="3462000" />
+      <workItem from="1587982770585" duration="368000" />
+      <workItem from="1596411847670" duration="1615000" />
+      <workItem from="1596413567658" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1596413034683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1596413034683" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587924786196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587924786196" />
+    <state x="751" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1587927233450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="751" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587927233450" />
+    <state x="1197" y="409" key="DetectedRootsChooserDialog" timestamp="1587926904965">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1197" y="409" key="DetectedRootsChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587926904965" />
+    <state x="1159" y="208" key="FileChooserDialogImpl" timestamp="1587983136609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1159" y="208" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587983136609" />
+    <state x="837" y="418" width="600" height="240" key="Github.ShareDialog" timestamp="1596413301475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="837" y="418" width="600" height="240" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596413301475" />
+    <state width="1877" height="165" key="GridCell.Tab.0.bottom" timestamp="1596413424241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="165" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596413424241" />
+    <state width="1877" height="165" key="GridCell.Tab.0.center" timestamp="1596413424240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="165" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596413424240" />
+    <state width="1877" height="165" key="GridCell.Tab.0.left" timestamp="1596413424240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="165" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596413424240" />
+    <state width="1877" height="165" key="GridCell.Tab.0.right" timestamp="1596413424240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="165" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596413424240" />
+    <state x="880" y="98" key="SettingsEditor" timestamp="1587926915744">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="98" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587926915744" />
+    <state x="566" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587926750890">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="566" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587926750890" />
+    <state x="758" y="411" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596413422069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="758" y="411" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596413422069" />
+    <state x="685" y="130" key="new project wizard" timestamp="1587926294183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="130" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587926294183" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587927173724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587927173724" />
+  </component>
+</project>
