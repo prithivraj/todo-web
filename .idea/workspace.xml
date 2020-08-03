@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec4459d0-2799-4793-b954-da0aeedf0832" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MainServer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainServer.kt" afterDir="false" />
-    </list>
+    <list default="true" id="ec4459d0-2799-4793-b954-da0aeedf0832" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +64,26 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.excludes" />
   </component>
-  <component name="RunManager" selected="Kotlin.MainClientKt">
+  <component name="RunManager" selected="Gradle.TODOWeb [jar]">
+    <configuration name="TODOWeb [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="MainClientKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="TODOWeb.main" />
       <option name="VM_PARAMETERS" />
@@ -98,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.TODOWeb [jar]" />
         <item itemvalue="Kotlin.MainClientKt" />
         <item itemvalue="Kotlin.MainServerKt" />
       </list>
@@ -117,12 +132,24 @@
       <workItem from="1587926234850" duration="3462000" />
       <workItem from="1587982770585" duration="368000" />
       <workItem from="1596411847670" duration="1615000" />
-      <workItem from="1596413567658" duration="716000" />
+      <workItem from="1596413567658" duration="1188000" />
     </task>
+    <task id="LOCAL-00001" summary="added task to run">
+      <created>1596414385980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596414385980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added task to run" />
+    <option name="LAST_COMMIT_MESSAGE" value="added task to run" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1596413034683">
@@ -137,6 +164,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="751" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587927233450" />
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1596414385386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596414385386" />
     <state x="1197" y="409" key="DetectedRootsChooserDialog" timestamp="1587926904965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -153,26 +184,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="696" y="218" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596413676235" />
-    <state width="1877" height="165" key="GridCell.Tab.0.bottom" timestamp="1596413424241">
+    <state width="1877" height="165" key="GridCell.Tab.0.bottom" timestamp="1596414339487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="165" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596413424241" />
-    <state width="1877" height="165" key="GridCell.Tab.0.center" timestamp="1596413424240">
+    <state width="1877" height="165" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596414339487" />
+    <state width="1877" height="165" key="GridCell.Tab.0.center" timestamp="1596414339487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="165" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596413424240" />
-    <state width="1877" height="165" key="GridCell.Tab.0.left" timestamp="1596413424240">
+    <state width="1877" height="165" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596414339487" />
+    <state width="1877" height="165" key="GridCell.Tab.0.left" timestamp="1596414339487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="165" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596413424240" />
-    <state width="1877" height="165" key="GridCell.Tab.0.right" timestamp="1596413424240">
+    <state width="1877" height="165" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596414339487" />
+    <state width="1877" height="165" key="GridCell.Tab.0.right" timestamp="1596414339487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="165" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596413424240" />
+    <state width="1877" height="165" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596414339487" />
     <state x="880" y="98" key="SettingsEditor" timestamp="1587926915744">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="880" y="98" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587926915744" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1596414388341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596414388341" />
     <state x="566" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587926750890">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
